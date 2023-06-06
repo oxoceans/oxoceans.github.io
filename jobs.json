@@ -1,0 +1,4823 @@
+[
+    {
+        "header": "Интенсив-2023",
+        "lessons": [
+            {
+                "header": "Как ботать в июне",
+                "menu": [
+                    {
+                        "title": "Трансляция",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "IeIR1YbI34s"
+                    }
+                ]
+            },
+            {
+                "header": "Актуальные шаблоны для КЕГЭ-2023",
+                "menu": [
+                    {
+                        "title": "Трансляия",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "TRv-AKVvztY"
+                    }
+                ]
+            },
+            {
+                "header": "Вариант 02.06.2023",
+                "menu": [
+                    {
+                        "title": "Вариант",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25026870
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "wxa0z6McaRI"
+                    }
+                ]
+            },
+            {
+                "header": "№4. Неравномерное кодирование",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240894"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25026898
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25026899
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8154"
+                    },
+                    {
+                        "title": "Основные моменты",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/@-205546952-korotko-pro-zadanie-4"
+                    },
+                    {
+                        "title": "Материалы для изучения",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_7002"
+                    }
+                ]
+            },
+            {
+                "header": "№2. Таблицы истинности",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "crg9Pv5lVs0"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25026890
+                    },
+                    {
+                        "title": "Разбор ДЗ",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8155"
+                    },
+                    {
+                        "title": "Записи со стрима",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_7587"
+                    },
+                    {
+                        "title": "Короткая справка",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_7584"
+                    }
+                ]
+            },
+            {
+                "header": "№5, №6. Исполнители",
+                "menu": [
+                    {
+                        "title": "Трансляция",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240897"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25026972
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25026986
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8493"
+                    },
+                    {
+                        "title": "Коротко про №5",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/@-205546952-korotko-pro-vazhnoe-v-5"
+                    },
+                    {
+                        "title": "Коротко про №6",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/@-205546952-kratko-pro-vazhnoe-dlya-6"
+                    }
+                ]
+            },
+            {
+                "header": "№26. Задачи на сортировку",
+                "menu": [
+                    {
+                        "title": "Трансляция",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "dEI-tTDwHUs"
+                    },
+                    {
+                        "title": "Записи со стрима",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8162"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.cc/coyjrL"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25026958
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8492"
+                    },
+                    {
+                        "title": "Коротко про сортировку",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8166"
+                    }
+                ]
+            },
+            {
+                "header": "№3, №9. Электронные таблицы",
+                "menu": [
+                    {
+                        "title": "Занятие",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240902"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027048
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027058
+                    },
+                    {
+                        "title": "Коротко про 3 задание",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8495"
+                    },
+                    {
+                        "title": "Коротко про 9 задание",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8494"
+                    }
+                ]
+            },
+            {
+                "header": "№19-21. Теория игр",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "HhKG5Oha7Qw"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027008
+                    },
+                    {
+                        "title": "Записи со стрима",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8498"
+                    },
+                    {
+                        "title": "Коротко про теорию игр",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8496"
+                    }
+                ]
+            },
+            {
+                "header": "Вариант 06.06.2023",
+                "menu": [
+                    {
+                        "title": "Вариант",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25027193
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Теоретические основы",
+        "lessons": [
+            {
+                "header": "Системы счисления",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1glOEZayKzqpyqf8HgNDf6Bv84CnMqMuQ"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "WWgaRZzwBAI"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010461
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "visible",
+                        "data": "https://vk.com/video-205546952_456239020"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1wDLXZhk1PRScL76JJavdOPIdDwhuDVFs"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010463
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "visible",
+                        "data": "https://vk.com/video-205546952_456239022"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25013070
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240814"
+                    }
+                ]
+            },
+            {
+                "header": "Алгебра логики",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "CCXHwKmjZuw"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010468
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1jn9v_QIa_jqvkLa7QIeuzOXKs_g8vwXe"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239021"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "181bRQ0ljwVIIksMd5cWL0qRwsvBDFgAP"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25010479
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239023"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25014160
+                    },
+                    {
+                        "title": "Записи с разбора подборки",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1dAyiY2CDQ1ErHLI-0VNOLjhIxFzl357U"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240819"
+                    }
+                ]
+            },
+            {
+                "header": "Преобразование логических выражений",
+                "menu": [
+                    {
+                        "title": "Законы и правила",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1kWoQqgIF6lwNmiqQgUTTpXI8jHUjbsux"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25009181
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239106"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239108"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1v8lIeSN5LO9a6hUeApajgQxDeH48BU32"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25010507
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239107"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25014430
+                    },
+                    {
+                        "title": "Разбор подборки-2023",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240820"
+                    },
+                    {
+                        "title": "Записи со со стрима",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1hEQ5zSuOWp7_R-i430QHLv4KeT4FkcVb"
+                    }
+                ]
+            },
+            {
+                "header": "Комбинаторика",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "oBEf76nmPE4"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010508
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1JWJCRXfiE6-2muHSG6jpAEfRjXtBO1-1"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239026"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1kae8ZRyoGGmBaPFKcdePPTJfu4Xrmfrp"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25010519
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239027"
+                    },
+                    {
+                        "title": "подборка 2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25013240
+                    },
+                    {
+                        "title": "Разбор подборки-2023",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240815"
+                    },
+                    {
+                        "title": "Решения к подборке",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1pKyCYD3o1zpB2AwsH-AmYy4EUwMAJMaS"
+                    }
+                ]
+            },
+            {
+                "header": "Арифметика в системах счисления",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "76n-wj1uE74"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010551
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1XG8Eea_LRE2FZogJy9_BfNFhgvzZRuGG"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239044"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "15IDdU37r6bm9fKhXQzdFVGLPGRXlbAr0"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25010553
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239045"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25013637
+                    },
+                    {
+                        "title": "Разбор подборки-2023",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240816"
+                    }
+                ]
+            },
+            {
+                "header": "Теория графов",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "fwOnNR_0HXs"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010556
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1nqIFvMzgu08_ik__0sJ9l89Dnww4NnTM"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239028"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1y6ASrn88DzXSaRb_SSssWtsyNgB9o9-j"
+                    },
+                    {
+                        "title": "Подборка (старое)",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25013851
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25013892
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240817"
+                    },
+                    {
+                        "title": "Записи с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1fwf4PAJf8M1bS2S5ijlBeQGDd5c2uQSZ"
+                    }
+                ]
+            },
+            {
+                "header": "Равномерное кодирование",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "i22-GV4vlv8"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25005999
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1V51ktVHhZXaaj4OPOXmFGAT6H_NJWSPb"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1fim14592i4CFNITon4n4QiaFcqsTtF-W"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25010566
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239063"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25014912
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240824"
+                    }
+                ]
+            },
+            {
+                "header": "Неравномерное кодирование",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "UuPk5-fepMg"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25006192
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1si4XU4L2xztU4dH1npc-c5WBzfB2iCCq"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1bFrV6Pm0bl-6MCgmGFBwEIa8qLJYujeV"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25015188
+                    },
+                    {
+                        "title": "Разбор подборки-2023",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240829"
+                    }
+                ]
+            },
+            {
+                "header": "Теория игр (одна куча)",
+                "menu": [
+                    {
+                        "title": "Основные термины",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1y_jPSNhmL_aqAAU3BgPGdj1gZ7v1QiRJ"
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "134NtOimnci8iCc55si9RDIK73Y-3TwK6"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239097"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008617
+                    },
+                    {
+                        "title": "Разбор подборки (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239098"
+                    },
+                    {
+                        "title": "Записи с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1lgj1-5nZnLx_IOuQyMrZ8eIY7GMKhefq"
+                    },
+                    {
+                        "title": "Разбор задач (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1VQcXOR3eyj7H96XrMZSh0xFlkjkLpf3Y"
+                    },
+                    {
+                        "title": "Разбор задач (jupyter)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1MlD_q7o_GQMQhUY-uHlqgIU_1bYsv9i7"
+                    }
+                ]
+            },
+            {
+                "header": "Теория игр (две кучи)",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1qtI6WXPOVpkwJIplYa28l4jUa4e8eTrK"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239104"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008868
+                    },
+                    {
+                        "title": "Разбор подборки (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239105"
+                    },
+                    {
+                        "title": "Разбор подборки (код)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1IIn9JZ8VkxE-CFYGipn_MDysor65AUYb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Электронные таблицы",
+        "lessons": [
+            {
+                "header": "Основы",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "auWtvSCOeN0"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010571
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1eC9XIrMnNkhE80ug3u9wE3KiMhs5kxp-"
+                    },
+                    {
+                        "title": "Разбор дз (excel)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1L2jjwMg4uuMWUPFCDixWNYBiRPQN1Kop"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25006430
+                    },
+                    {
+                        "title": "Разбор дз и подборки (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239070"
+                    },
+                    {
+                        "title": "Книга со стрима",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "15iHfJGHHZLMCRSdKXMo2zAG0LUo01pWZ"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25018445
+                    },
+                    {
+                        "title": "Трансляция",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240863"
+                    },
+                    {
+                        "title": "Книга со стрима",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1saUx9IGJvym-7OtOniRoEog2GcmVb7QI"
+                    }
+                ]
+            },
+            {
+                "header": "Сортировки и фильтр",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "JbWKTea4oZw"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010577
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1G86Ip32SCd16-GFFQFJKAxg7bjBZb-O_"
+                    },
+                    {
+                        "title": "Подборка-2022",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25010576
+                    },
+                    {
+                        "title": "Разбор дз и подборки (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239072"
+                    },
+                    {
+                        "title": "Файл к разбору дз",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1gd_j1EbSYa96-KZ5mL2uXeAKumYQ8FCN"
+                    },
+                    {
+                        "title": "Файл к разбору подборки",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1LctPAnjX5YKw0Im_jNj_GZYFamRxe2Qp"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25018762
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240864"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1VUj2tYxI216lJEA-fTuCPI-dMUV88_J6"
+                    }
+                ]
+            },
+            {
+                "header": "ВПР и индексация",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "NevHEtshis4"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25006783
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1JQWTYKWd0vCEWxjhqOGBVBxsZ0IIqYXY"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25006817
+                    },
+                    {
+                        "title": "Разбор дз и подборки (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239073"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": "25019207"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240865"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1Klv5itvTUYBNN62Tqhm5CgiffFGJNUqO"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Основы Python",
+        "lessons": [
+            {
+                "header": "Основы",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1QseOAxebAJGc0C3eDUCnRbnok9XriWRq"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "7ygjsiImok4"
+                    },
+                    {
+                        "title": "Домашняя работа (текст)",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1zKwtjleuCI49n_BFMPVcK36SAnjKelpj"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1Ja8vkyFHGnv8gmIlltiWpZ5YPy3rKX-2"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239032"
+                    },
+                    {
+                        "title": "Подборка (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1zzCLsOyiKOs6jh44Bz43fx1B9LW94TPR"
+                    },
+                    {
+                        "title": "Разбор подборки ",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239033"
+                    }
+                ]
+            },
+            {
+                "header": "Последовательности",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1w_nMaAXNak9X8ZlJKxhcrEouVaObuAk5"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "J4XvJCeZGq0"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010965
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1KbmKQiLwa3Fq4t3QbbreWBYCROLQW-tU"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239034"
+                    },
+                    {
+                        "title": "Подборка (acmp)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1NvbFfekLUAxZp6sJX92AGaltRRd9lYAw"
+                    },
+                    {
+                        "title": "Подборка (kompege)",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25010967
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "boqIAruQXDg"
+                    }
+                ]
+            },
+            {
+                "header": "Функции",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "12JlwcJsKFxZkxqz6GtIAV4Ivkpo0rGpC"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "FDvbEnxjbJE"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010995
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1-5CTFJZv9TXBZP5h_CEs75TRjERkzP0f"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239037"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25010997
+                    },
+                    {
+                        "title": "Разбор подборки (1-17)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239038"
+                    },
+                    {
+                        "title": "Разбор подборки (18-23)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239039"
+                    },
+                    {
+                        "title": "Функции. Окружение, стек и возвращаемые значения",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240870"
+                    }
+                ]
+            },
+            {
+                "header": "Цикл for и модуль itertools",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1l9k0oi6MCYIcjQe-FFQN4gI6dzHdL9Wx"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "XIu-CqyCcuU"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011024
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1CffLnhSc2__IxyApAuHcKuwrAvzE2BLU"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239052"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011025
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239047"
+                    }
+                ]
+            },
+            {
+                "header": "Цикл while и базовые алгоритмы",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "-UGGiP8zXhA"
+                    },
+                    {
+                        "title": "Домашнее задание",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011018
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1qt_jwZoapXkymAo2GGGUqncXIdeEsA1d"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239054"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25005507
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239049"
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1l9k0oi6MCYIcjQe-FFQN4gI6dzHdL9Wx"
+                    }
+                ]
+            },
+            {
+                "header": "Генераторы и функции all/any",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1HFhsCRjpNhNez_I2g5P_7Ge74Cj6je6l"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "VfEMzFFg_sQ"
+                    },
+                    {
+                        "title": "Домашняя работа (текст)",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1HuPhw2CMYb_06KabK02A6xVTMpdRAxH3"
+                    },
+                    {
+                        "title": "Дз. Подборка (тестовая часть)",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011027
+                    },
+                    {
+                        "title": "Разбор дз (Текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1cbShiCiYM5ijFYSQvfX2ISscsYqMdZzV"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239053"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011028
+                    },
+                    {
+                        "title": "Подборка (файл для jupyter)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1E6q7dUpNW0SJlL4vIIaF6vf3MccD5Pyh"
+                    },
+                    {
+                        "title": "Разбор подборки (1-5)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239055"
+                    },
+                    {
+                        "title": "Разбор подборки (6-20)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239056"
+                    }
+                ]
+            },
+            {
+                "header": "Словари",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1W_9xxDiQ5iXcaUh5Z7Mf2AKY23reeAGD"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "O2fNWJ-RKF8"
+                    }
+                ]
+            },
+            {
+                "header": "Сортировка",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1uCoPd22hG4oQcJpQb9fRJlfEIAF3jMan"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "4n3CauolDGg"
+                    },
+                    {
+                        "title": "Файл jupyter к занятию",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1CMq3WGJfT-LEX-GMBKW_ATVmW61WP55Y"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011269
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239089"
+                    },
+                    {
+                        "title": "Файл jupyter к подборке",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1ItvtI4OTIXKRuPkzrLvjftLgwu4mtxcS"
+                    }
+                ]
+            },
+            {
+                "header": "Полезные приемы и частые ошибки",
+                "menu": [
+                    {
+                        "title": "Лайфхаки python для ЕГЭ",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "P1w3oAkLOzc"
+                    },
+                    {
+                        "title": "Частые ошибки при программировании на Python",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "wax2uwR8dIk"
+                    },
+                    {
+                        "title": "Документ с частыми ошибками",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1PvbcHlNBMZw41e_6ft_4nBET9w8WbZpb"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "PascalABC.net",
+        "lessons": [
+            {
+                "header": "Вводное занятие",
+                "menu": [
+                    {
+                        "title": "Трансляция",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "RulhCYnbRAA"
+                    },
+                    {
+                        "title": "Настройка среды",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240818"
+                    }
+                ]
+            },
+            {
+                "header": "Типы данных и выражения",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "KI-ctVHg23E"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1U49uDpHFXNzhoEWddTPzYLuIeGUBWzlQ"
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240821"
+                    }
+                ]
+            },
+            {
+                "header": "Операторы ветвления",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "3ZczXyqAPSA"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1inrCxYWfjO0jj1F6aXmyhcxijFI8BTsX"
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240823"
+                    }
+                ]
+            },
+            {
+                "header": "Циклически операторы. While, repeat-unlit, foreach",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "VYU8R8Yr7P0"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1wcq7GeWqWRQ7kfOupw6FT5k6zcGSOfba"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1QuZIn8U2mFZfBUiCCUjqDmZujKjWKsDg"
+                    }
+                ]
+            },
+            {
+                "header": "Массивы, строки и среы",
+                "menu": [
+                    {
+                        "title": "Запись занятия",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "Dr5dBWieWL4"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1hXHgRAgZOK-aBJDOxgEQggLFhea-BwgR"
+                    },
+                    {
+                        "title": "Разбор домашней работы",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240831"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1njoNMi9yGey0UB7iMoarIWCI8EbV3Hrz"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240830"
+                    }
+                ]
+            },
+            {
+                "header": "Циклы for/foreach",
+                "menu": [
+                    {
+                        "title": "Запись занятия",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "3R9FjNgtZb0"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1f4leErUgphoEwYMHwiWgFi5NvCICQoq4"
+                    },
+                    {
+                        "title": "Разбор ДЗ",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240837"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1qOvO5uuouWxbSaPTZLcExJpBlPPJQsvw"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/club205546952?z=video-205546952_456240839"
+                    }
+                ]
+            },
+            {
+                "header": "Процедуры и функции",
+                "menu": [
+                    {
+                        "title": "Запись занятия",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "h8tG6Fmvx_k"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1aibTkrjp35z4KseqoTCaIJMbgULvvgM1"
+                    },
+                    {
+                        "title": "Разбор домашней работы",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240843"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1br4YpPVOV6CBIhFedvzkWmljcwCGOVt-"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240841"
+                    }
+                ]
+            },
+            {
+                "header": "Последовательности",
+                "menu": [
+                    {
+                        "title": "Запись занятия",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "Ugz08fr3gPI"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1k35AsgrN40yk_6HVyBNDXWwtZdlCQKJV"
+                    },
+                    {
+                        "title": "Разбор домашней работы",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240846"
+                    },
+                    {
+                        "title": "Подборка ",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1QmDBkCYRKnojgR08TwrIgd_d6_ohuMJ4"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240847"
+                    }
+                ]
+            },
+            {
+                "header": "Лямбда-функции",
+                "menu": [
+                    {
+                        "title": "Запись занятия",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "NGLBjC_nqPk"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1dvqFkJfuIR-pZp0fwACvC2CAQvhtO_65"
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/club205546952?z=video-205546952_456240852"
+                    },
+                    {
+                        "title": "Подборка ",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1sUMuNERbSfO7sSAxAYvIuwyq18r5W6kM"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/club205546952?z=video-205546952_456240849"
+                    }
+                ]
+            },
+            {
+                "header": "Комбинаторика на LINQ",
+                "menu": [
+                    {
+                        "title": "Запись занятия",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "940ybfJUIo8"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1jiFxsApKBY6Gy8bxmiks-Trf8M0qZ7o-"
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240852"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1L07PCv_KxffCowAw6dtCdf41JXSli4Ap"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240853"
+                    }
+                ]
+            },
+            {
+                "header": "Теория игр + множества",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "Ezfc-wq5LTI"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1MGj0NCu5efUE35-62BPB4mWLKlpPySMf"
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240859"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240856"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "1hidMVD2pxkL1uG6-Xxxsm45Dl2NYzYzs"
+                    }
+                ]
+            },
+            {
+                "header": "Словари и кэширование",
+                "menu": [
+                    {
+                        "title": "Модуль xlsx.pas",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1GVLWpohzJynqKHgkt-QJyi7EbNQNkIXk"
+                    },
+                    {
+                        "title": "Занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "6U-AI0nPETw"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1pPkMMrp2V2N-vqNFPdy4z534ENo43jPh"
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240859"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "18BLSRBmy9CzNzrITHUkAsfSrqrzWODMa"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240860"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Алгоритмы обработки числовых данных",
+        "lessons": [
+            {
+                "header": "Работа с делителями",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "Tl3cWstQy9s"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25005805
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1GmjQWfDA_EyIARZWQrYtazDmEpMe4xhF"
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1P49kzMzs1XEdC_8C1dX_st1tGpFeumxx"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239061"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011029
+                    },
+                    {
+                        "title": "Разбор подборки ",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239062"
+                    },
+                    {
+                        "title": "Файл с решениями",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "18NxnXP1xWcrd8Ekx30YpZ5_vcJCdF8FH"
+                    }
+                ]
+            },
+            {
+                "header": "Переборные алгоритмы",
+                "menu": [
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "5lQrkFIp0oc"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25009589
+                    },
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1AAFVJGeaMBt6eiaE_3XEXzhzvAvNRKQm"
+                    },
+                    {
+                        "title": "Файл для jupyter с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1wuKI9dEF8casXx-P2VzVSLdm9Zyta7Mn"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239115"
+                    },
+                    {
+                        "title": "Разбор дз (файл для jupyter)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1KKDOmOYFmaPcHnJn11_QOjgdJwVXffxl"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25019746
+                    },
+                    {
+                        "title": "Разбор подборки (1-10)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240866"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1TZwUBGpmJPMFINbcxoYefhl5FM56sTVd"
+                    },
+                    {
+                        "title": "Разбор подборки (11-21)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240867"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "1QOO4xQ8NKcOSgRRZfa822lFsmuFv0Y7Y"
+                    },
+                    {
+                        "title": "Подборка по рекурсии",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25020955
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240871"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1Sxd-DWO6PGyp0PQ4MbHfAkje1RkzRJ75"
+                    }
+                ]
+            },
+            {
+                "header": "Статистические алгоритмы. Начала динамического программирования",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1caNbcDh0vsAj8htuYaCSKPQH5k1IO-Aw"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239114"
+                    },
+                    {
+                        "title": "Задачи с занятия",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011270
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25009818
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1s8rFc8IUONo9m748M0ltsXe-SCXvm7YC"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239116"
+                    },
+                    {
+                        "title": "Дз (файл для jupyter)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1lr1c6LdJjbX_lHbJfhjjzNkTxxzAMeTy"
+                    },
+                    {
+                        "title": "Заполненный файл(jupyter)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "159VPxzKqKBC_zGJlX_YADabIJHsW6l_L"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25023813
+                    },
+                    {
+                        "title": "Презентация",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1q7HvaEd5DzGAXpvnrHNIOD8V-0cerduG"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "13hM1zUUPlqBEJ-Yy8QHz1zMZzvpg9H0R"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1vdsEf5sfkqP5wwI2i9IfPyJih2RxqkMA"
+                    }
+                ]
+            },
+            {
+                "header": "Работа с очередью",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1rASJuCNhFGAt1y2rVShKoM0wpOHdBOZw"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239117"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010098
+                    },
+                    {
+                        "title": "Разбор дз (текст)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1O10JwlDb8n6zZ4d8vuK1SxCSD-m_YBcx"
+                    },
+                    {
+                        "title": "Разбор дз (видео)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239119"
+                    },
+                    {
+                        "title": "Файл с занятия (jupyter)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1rLfxHnv_PcWVXxygdZO2ApEhyyjPjjvq"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25024148
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_6835"
+                    }
+                ]
+            },
+            {
+                "header": "Метод частичных сумм и метод накопления остатков",
+                "menu": [
+                    {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1oy0LZulD-AvziiSgqDPipbZC44BFhSJ0"
+                    },
+                    {
+                        "title": "Теоретическое занятие",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239120"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1QlR2YPlXHgFw0LwWBUFO3htd9aLqcItL"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25010522
+                    },
+                    {
+                        "title": "практика-2023",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25024364
+                    },
+                    {
+                        "title": "Разбор-2023",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240889"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1XP6uCb_vUjLZP6K5-XvFawxf3RdIoKq6"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1QHB2bQd3MLtHBWbg3Hdu8hKaeMsPmLgf"
+                    }
+                ]
+            },
+            {
+                "header": "Префиксные суммы и массивы разностей",
+                "menu": [
+                    {
+                        "title": "Задачи-2022",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011286
+                    },
+                    {
+                        "title": "Занятие-2022 (часть 1)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239122"
+                    },
+                    {
+                        "title": "Занятие2022  (часть 2)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239123"
+                    },
+                    {
+                        "title": "Задачи-2023 ",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25022321
+                    },
+                    {
+                        "title": "Занятия-2023",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240877"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1XNFX5eVvv0tnNMtht8LxRErr64TUNEMn"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1Vt6Prv25yftWLzsDtCWydcURSgz3gLQk"
+                    }
+                ]
+            },
+            {
+                "header": "Метод двойного указателя",
+                "menu": [
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25022854
+                    },
+                    {
+                        "title": "Занятие",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240881"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1blpYW3qoTzvW7_CVdPKIP69HYR-sMTJK"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Вспомнить всё - 2023",
+        "lessons": [
+            {
+                "header": "Задания 1, 13, 22",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25021257
+                    },
+                    {
+                        "title": "Разбор 1, 2",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240872"
+                    },
+                    {
+                        "title": "Разбор 3-27",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "-ZBycSevOqs"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1hxb6L0lewqPODxgfGf3d_Niv6jcbgots"
+                    },
+                    {
+                        "title": "Код занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "19b20e88O62k-dqGjiHtwuH52EdGV7jnA"
+                    },
+                    {
+                        "title": "Книга excel",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1bDhdUTPFDf_6eM1BfZHZ6KIxKBmk32Cl"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 4, 7, 11",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25021612
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "mXckQzkkcnY"
+                    },
+                    {
+                        "title": "Записи с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1vFDW3TP9-bPEhCpVkYvGAnjPz7DZL_pB"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 3, 9, 18",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25021867
+                    },
+                    {
+                        "title": "Разбор (1, 2)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240875"
+                    },
+                    {
+                        "title": "Разбор (3-23)",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "VCeuM24NnOc"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 6, 10, 12",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25022063
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240876"
+                    },
+                    {
+                        "title": "Записи со стрима",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "17HevKSbqozEBFRnEabNhSoOga4f8oZjW"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 2, 5, 14",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25022341
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240878"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1Ba8IkzO8-Eeo1G_TMbInwbfZZrb22N1k"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1x-zU7lQG7_2GT5UDNmBAkzE0y_NhLZEg"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 16, 23",
+                "menu": [
+                    {
+                        "title": "подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25022835
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240879"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "15WRNK1G8F0HnKB6FCw1TMCYBJ6iLcZhP"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1OG9ZlZIiaFgdbc-am1RPOMmjW9fjY6BW"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 17, 25, 27А",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25023028
+                    },
+                    {
+                        "title": "Запись занятия",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240880"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "18bQbyorJeo5BrDGMJVBTF_bcUktiU2xO"
+                    }
+                ]
+            },
+            {
+                "header": "Задание 15",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25023426
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240882"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "19D8bB-rIDeHy8dhKkUwncHeHDNmkb5A4"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1hXKSIP54KRinyTCG_M48Sq-6HdHtdLrp"
+                    }
+                ]
+            },
+            {
+                "header": "Задание 8",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25023684
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240883"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1zfPNwTa32vYjUvdOMvSirwcDef9WdGTV"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1IMI9it9NL26jwjZSQ-Ozb8LZhCRtoT_H"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 19-21",
+                "menu": [
+                    {
+                        "title": "Часть 1",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25024243
+                    },
+                    {
+                        "title": "Занятие с разбором",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240885"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1LV-WB8uJEmirq6FSyw4V8AkxxO6-udbL"
+                    },
+                    {
+                        "title": "Часть 2",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25024244
+                    },
+                    {
+                        "title": "Занятие с разбором",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_6772"
+                    }
+                ]
+            },
+            {
+                "header": "Задание 24",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25024703
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_6841"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1pSITdRsE6m7bSeKpSvVENcK5B_fCvNpM"
+                    }
+                ]
+            },
+            {
+                "header": "Задание 26",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": "25024704"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Обзор заданий",
+        "lessons": [
+            {
+                "header": "Задание №1",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019342
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "G9MfJhHwPDM"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008394
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239075"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №2",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019343
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "pKgwj1p2V5E"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008395
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239076"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №3",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019344
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "k1n7-pq0GiA"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008463
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239077"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №4",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019345
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "S_jfo1DYvuw"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008466
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239079"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №5",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019346
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "BH9CYGLqnL4"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008467
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239080?list=ln-F1hECaovUtQx6bCzwQ"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №6",
+                "menu": [
+                    {
+                        "title": "Разбор демо-версии-2023",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "kREiuR5U-qU"
+                    },
+                    {
+                        "title": "Подборка уровня экзамена",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25017053
+                    },
+                    {
+                        "title": "Подборка попроще",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25017052
+                    },
+                    {
+                        "title": "Запись обзора + решение подборок",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "_lASUan9E8Q"
+                    },
+                    {
+                        "title": "Решения задач уровня ЕГЭ",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1iw6HghprOBYhPQqfdJbxLT0yGTOA_1rG"
+                    },
+                    {
+                        "title": "Решения задач попроще",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1AXEBuCkdVhicesRXM42T_85kcazrmomt"
+                    },
+                    {
+                        "title": "Презентация с занятия",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1DC6c_KobQ-U4IyCHQ86At9RgdAayLBGv"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №6 (2022)",
+                "menu": [
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239081"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008473
+                    }
+                ]
+            },
+            {
+                "header": "Задание №7",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019347
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "ETsZksnLFn4"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008520
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239083"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №8",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019348
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "w5Ns4Y9sYuY"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008522
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239084"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №9",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019349
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "ySECUyXCOVk"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008523
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239085"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №10",
+                "menu": [
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239086"
+                    },
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019350
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008524
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "UirQ_53mkm4"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №11",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019351
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "I0zY72__Xfo"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008618
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239090"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "12QIi4wkerbHBjHWgMCF7t-iJ2JLKM0Zj"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №12",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019352
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "5FmErFn-ATc"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008619
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239091"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1oR-d3V_-nsJjgo_Wj9jT3hAt_b4SaJTH"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №13",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019353
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "LsJ9gmsSfQs"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": "25008625"
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239092"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1ks-4EOseBm8YH4cdqEp2z3VR9icQuwcm"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №14",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019354
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "YciG0lunAp8"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008626
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239093"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1D_RA8nZ-FxXp4A6cUrYF6QL5bXSrMOiH"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1nUUcpQQe4PVkAS18ei46cP-zcUpl9Wav"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №15",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019362
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "tMXky8KmxuE"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008627
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239109"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1_LmhLxP52nnZ97ShCcVQuylqTJykBVUd"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "10KlLVUJjQLo34zHwK8yL7q5X_JnSOXco"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №16",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019364
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "w4Wq6Cc3QFc"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008628
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239094"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1B4a097Nj11nJQnCetMI4xOKrpL5S2tNZ"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №17",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019365
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "CwLuaIXCdZA"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008629
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239095"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1FduPisd1yEAntGUdvE6VvwChq85GYg8Q"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №18",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019366
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "GVE-j9FdH6w"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008630
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239096"
+                    },
+                    {
+                        "title": "Эл.таблица с решениями ",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1MFfCxevqaLKp_mMoLndB_tTUkpBF9K4h"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №19-21",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019367
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "RJKjPhrZq_c"
+                    },
+                    {
+                        "title": "Что надо знать",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "VGxANw4jv6w"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1mHTpumab9grIeYMk_NAcg8UDoRsoIe_1"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1EXkL9uPJpWZUJAUL6RSxRBBtZhxOrw_v"
+                    },
+                    {
+                        "title": "Электронная таблица",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1J4muFFSD1WKrfEvsea7saVSJTg-VfQco"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008792
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239110"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1XPJaGIyVS4KiXurXkZl5fnNiTClc9Elw"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1ZL0_TdruViaUtpoB6OdN6ijIERiX59yD"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №22",
+                "menu": [
+                    {
+                        "title": "Разбор демо-версии 2023",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "AMgpCfuM8YI"
+                    },
+                    {
+                        "title": "Обзор задания",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "71aplSJqb2g"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019530
+                    }
+                ]
+            },
+            {
+                "header": "Задание №22 (2022)",
+                "menu": [
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239099"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1HKKrcTeKE_U0uvJBkehjpTX6h-ZLnHES"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1_zK9K_CbgdJ_ZhUPWgtwibyfTIaJJ19N"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008794
+                    }
+                ]
+            },
+            {
+                "header": "Задание №23",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019368
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "jk5fARto9oo"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008797
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239100"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1s3YF0ir9rEpEx_otvosYbsQis2bwcxA6"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1-07X7aOcBwIlL3ElTHI-Da8-4xUeT5tE"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №24",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019369
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "7yRjhTPpF0Q"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008798
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239101?list=ln-fNohhyqPH2NBUzPRdf"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1HxDUDLh3Qaey64o8VjMymoQUrJF9BBVe"
+                    },
+                    {
+                        "title": "Строка из подряд идущих двоек/троек",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "Qci_ru6RNjc"
+                    },
+                    {
+                        "title": "Подборка к видео",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": "25019072"
+                    },
+                    {
+                        "title": "Код с видео",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1kiioZdkDDRCA2mgQ68gmju70HWGs7myh"
+                    },
+                    {
+                        "title": "Метод разбиения на слова",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "bqROfzfJfcc"
+                    },
+                    {
+                        "title": "Подборка к видео",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019729
+                    },
+                    {
+                        "title": "Код с видео",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1eveqV2t78eaQTD1x1qQXECYkM6O2Anst"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №25",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019370
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "54yTrkjKN-M"
+                    },
+                    {
+                        "title": "Подборка-2023",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019926
+                    },
+                    {
+                        "title": "Обзор 2023",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "242fiBP4Cjo"
+                    },
+                    {
+                        "title": "Подборка-2022",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008802
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239102"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1SvE_KFC87cI944JK-DStMKm4SzzhIuqK"
+                    }
+                ]
+            },
+            {
+                "header": "Задание №26",
+                "menu": [
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239103"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1p1GzWEUCNTa67M6534xBnexjyqPdUzw-"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008799
+                    }
+                ]
+            },
+            {
+                "header": "Задание №27",
+                "menu": [
+                    {
+                        "title": "Задачи с ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25019371
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "-2MZTP7sxhg"
+                    },
+                    {
+                        "title": "Подборка уровня ЕГЭ",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25008803
+                    },
+                    {
+                        "title": "Запись обзора",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239125"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1tsE8F99d654hIPbfzfFXT9L1t3d-iEca"
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1CR7keaEub1bZjl2_uL0havdtVXRiJ7nQ"
+                    },
+                    {
+                        "title": "Разбор подборки",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239126"
+                    },
+                    {
+                        "title": "Код из разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1gqhl5pNHcfLxX6qKPZLE3lPtnBOj53zF"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Практические занятия",
+        "lessons": [
+            {
+                "header": "Базовые подборки",
+                "menu": [
+                    {
+                        "title": "Подборка №1",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": "25004837"
+                    },
+                    {
+                        "title": "Разбор подборки №1",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "16-XvOt5TDk"
+                    },
+                    {
+                        "title": "Подборка №2",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011341
+                    },
+                    {
+                        "title": "Разбор подборки №2",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239040"
+                    },
+                    {
+                        "title": "Подборка №3",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25005661
+                    },
+                    {
+                        "title": "Разбор подборки №3",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239057"
+                    },
+                    {
+                        "title": "Подборка №4",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011347
+                    },
+                    {
+                        "title": "Разбор подборки №4 (1ч)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239064"
+                    },
+                    {
+                        "title": "Разбор подборки №4 (2ч)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239065"
+                    }
+                ]
+            },
+            {
+                "header": "Подборки сложнее",
+                "menu": [
+                    {
+                        "title": "Подборка №1",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25004838
+                    },
+                    {
+                        "title": "Разбор подборки №1",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "n5Z1X7_lFeo"
+                    },
+                    {
+                        "title": "Подборка №2",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011375
+                    },
+                    {
+                        "title": "Разбор подборки №2",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239041"
+                    },
+                    {
+                        "title": "Подборка №3",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25005662
+                    },
+                    {
+                        "title": "Разбор подборки №3",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239058"
+                    },
+                    {
+                        "title": "Подборка №4",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011383
+                    },
+                    {
+                        "title": "Разбор подборки №4",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239067"
+                    },
+                    {
+                        "title": "Ошибки (№1)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1j6UHSw4XfztAR3zXM8oGPgBNB7XPrMb1"
+                    }
+                ]
+            },
+            {
+                "header": "Практика-2023. Базовая теория",
+                "menu": [
+                    {
+                        "title": "1, 13, 14 задания",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25015438
+                    },
+                    {
+                        "title": "Записи с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1cg_hgYUQizdIDknK3pvXmLFfLD6KCnA8"
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240832"
+                    },
+                    {
+                        "title": "4, 7, 11 задания",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25015482
+                    },
+                    {
+                        "title": "Записи с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "12poQKKd4M3XR7Ka3nLwPcwdVXoI30Qai"
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240833"
+                    },
+                    {
+                        "title": "2, 8, 15 задания",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": "25015525"
+                    },
+                    {
+                        "title": "Записи с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1nt8CT3qGDQ8HdTp1wHqQ7NmusO_FZEpW"
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240834"
+                    }
+                ]
+            },
+            {
+                "header": "Практика-2023. Основы Python. Условия, циклы, комбинаторика",
+                "menu": [
+                    {
+                        "title": "Основы Python",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25015698
+                    },
+                    {
+                        "title": "Задачки с codewars",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1wnK0-KkJ9SXWppuE5zl6fCe1ExNx9teO"
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240838"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1OylSMIpx0gtnL1dn-kbpVLNJlOS0CRJ2"
+                    },
+                    {
+                        "title": "Циклы и последовательности",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25015972
+                    },
+                    {
+                        "title": "Задачки с codewars",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1wlpj7ujyYOMXRfT8psbqEip0FjEKGnd2"
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240842"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1Msbzbvlg6I_x5hhzJQ0KI0qqd-hejZh5"
+                    },
+                    {
+                        "title": "Циклы и последовательности (2)",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25016404
+                    },
+                    {
+                        "title": "Задачки с codewars",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1PWa23GXowp9OzgoISO6XywRmW8VFv8LF"
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240848"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1_HkFASxL3d7MjbawOT4XmxloyNIbdn0i"
+                    },
+                    {
+                        "title": "Циклы и последовательности-3",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25016696
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240850"
+                    },
+                    {
+                        "title": "Файлы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1inqAUynEGlwQJvL6H2Z1rjTL2Z5ArP3o"
+                    }
+                ]
+            },
+            {
+                "header": "Практика-2023. Python. Рекурсия - графы, траектории, теория игр",
+                "menu": [
+                    {
+                        "title": "Рекурсия. Основы. Простые графы и траектории",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25017113
+                    },
+                    {
+                        "title": "Задачки с codewars",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1flA3yJkjlZZaITeH2rgP-RqmjFHXRnVA"
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240854"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1gxrlcLDEPLCLMICq29sDGsfQra6W5gJD"
+                    },
+                    {
+                        "title": "Рекурсия. Продвинутые техники",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25017308
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240857"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "1NvS7M5B9AuAMF_k4DW-7gE7QRYL1k7wm"
+                    }
+                ]
+            },
+            {
+                "header": "НГ интенсив (повторение)",
+                "menu": [
+                    {
+                        "title": "1, 2, 4, 5, 6 Задания",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25018249
+                    },
+                    {
+                        "title": "Занятие №1",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "0PI9yBn3L5I"
+                    },
+                    {
+                        "title": "Записи №1",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1m6_H7dgDT-TvB4SVXY5-zZ07jI_-97XZ"
+                    },
+                    {
+                        "title": "7,8, 11, 12, 13 Задания",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25018250
+                    },
+                    {
+                        "title": "Занятие №2",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "pzgCpwk5nBw"
+                    },
+                    {
+                        "title": "Записи №2",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1bHh0cWvlsPPytKofAQ7OiwPkJ7tckHL9"
+                    },
+                    {
+                        "title": "14, 15, 16, 17, 23, 25 Задания",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25018251
+                    },
+                    {
+                        "title": "Занятие №3",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "7vosUzfWhpY"
+                    },
+                    {
+                        "title": "Записи №3",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1CKdW47CeYbYBlH-kjrmuf0pnsxUEetJE"
+                    }
+                ]
+            },
+            {
+                "header": "Теория игр-2023",
+                "menu": [
+                    {
+                        "title": "Подборка для ручного решения",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25020021
+                    },
+                    {
+                        "title": "Разбор (трансляция)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240868"
+                    },
+                    {
+                        "title": "Переборные алгоритмы для теории игр",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25020505
+                    },
+                    {
+                        "title": "Разбор ",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240869"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "14MK-tLQSYBdFpkVtZZA7UVoldlljZ-Aa"
+                    },
+                    {
+                        "title": "Подборка к рекурсивным алгоритмам",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25021318
+                    },
+                    {
+                        "title": "Разбор 1 (классическая рекурсия)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240873"
+                    },
+                    {
+                        "title": "Файл с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1pvHqwTZ0-iPi6dBiwFo3nr20EOJbhJtp"
+                    }
+                ]
+            },
+            {
+                "header": "27 задания",
+                "menu": [
+                    {
+                        "title": "Подборка 1",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25025289
+                    },
+                    {
+                        "title": "Разбор подборки 1",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_6982"
+                    },
+                    {
+                        "title": "Подборка 2",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25025699
+                    },
+                    {
+                        "title": "Разбор подборки 2",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_6988"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "Интенсив-2022",
+        "lessons": [
+            {
+                "header": "Обзор заданий",
+                "menu": [
+                    {
+                        "title": "Задания 1 - 21",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "Er6tVdJXgWI"
+                    },
+                    {
+                        "title": "Подборка к 1-21",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011643
+                    },
+                    {
+                        "title": "Задания 22 - 25",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "quq-3RnFFms"
+                    },
+                    {
+                        "title": "Подборка к 22 - 25",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011690
+                    }
+                ]
+            },
+            {
+                "header": "Задания 1, 13, 15",
+                "menu": [
+                    {
+                        "title": "Задания 1, 13",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239187"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011697
+                    },
+                    {
+                        "title": "Домашняя работа (1, 13)",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011698
+                    },
+                    {
+                        "title": "Разбор ДЗ",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239423"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1slGKeZdzSZKNBeT3SHfwUJ89_Iu8z0oO"
+                    },
+                    {
+                        "title": "Задание 15",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239298"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011709
+                    },
+                    {
+                        "title": "Домашняя работа (15)",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011691
+                    },
+                    {
+                        "title": "Разбор ДЗ (программный)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239561"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1ppkxjwJuub0dyEvW5tfSox0cN1CTzWNT"
+                    },
+                    {
+                        "title": "Разбор дз (аналитика)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239564"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 6 и 22",
+                "menu": [
+                    {
+                        "title": "Перебор в 6 и 22",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240796"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011740
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011743
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239861"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1trHQB1SrjWY134hz_2dYgnc9OhC2u8vl"
+                    },
+                    {
+                        "title": "Анализ в 6 и 22",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240806?t=2m52s"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011745
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011746
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239862"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1dtiKKiJ4VLPLKeB1N6hjCTZlFkYMbYXH"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 17 и 25",
+                "menu": [
+                    {
+                        "title": "Перебор делителей и ОТА",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240795"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011517
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011518
+                    },
+                    {
+                        "title": "Разбор дз (ОТА)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239863"
+                    },
+                    {
+                        "title": "Файл к разбору",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1K1hf5utsY0PoUafJgcpTAq3Y1xhgJvOI"
+                    },
+                    {
+                        "title": "Перебор в 17 и 25",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240807"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011768
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011770
+                    },
+                    {
+                        "title": "Разбор дз (перебор)",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239864"
+                    },
+                    {
+                        "title": "Файл к разбору",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "17T2eb7db7VdU9kDQmNU-vIA-TlUI8TZU"
+                    }
+                ]
+            },
+            {
+                "header": "Открытый вариант ФИПИ",
+                "menu": [
+                    {
+                        "title": "Вариант",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011595
+                    },
+                    {
+                        "title": "Разбор",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "fofH6PaRwe0"
+                    },
+                    {
+                        "title": "Файл с разбора",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "15_D6fbQcbLcY5fSeO1u5A0Xtd8s1fshf"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 4 и 10 + 19-21",
+                "menu": [
+                    {
+                        "title": "Задание 4 и 10",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240794"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011861
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011851
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456239865"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "17qWiag4eLINyBUTM33JyHkMy7e6i1A9v"
+                    },
+                    {
+                        "title": "Теория игр. Ручное решение",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240805"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011868
+                    },
+                    {
+                        "title": "Домашнее задание",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011871
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240039"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "18M_Qg7irKnUML58Rv-jMesLTSG3KK-U-"
+                    }
+                ]
+            },
+            {
+                "header": "Задания 2 и 8 + 19-21",
+                "menu": [
+                    {
+                        "title": "Задания 2 и 8",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240793"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011921
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011920
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240225"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1B3lLPNGnyoYb_upIWK9ecNfVE1UNJxsU"
+                    },
+                    {
+                        "title": "Теория игр. Программное решение",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240804"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011905
+                    },
+                    {
+                        "title": "Домашнее задание",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011915
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240579"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "13dHyql6gK_7hMjNLWAi1AMZM86-m_7xI"
+                    }
+                ]
+            },
+            {
+                "header": "14 задание + 27 задание (перебор)",
+                "menu": [
+                    {
+                        "title": "14 задание и программирование",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240799"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011972
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011971
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240580"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1CYv0dDHzT5LJXNlepy6yUEZNdv3GysEM"
+                    },
+                    {
+                        "title": "Перебор в 27 задании",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240803"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25011981
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011989
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240768"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1AkYvGy6A9phuJlooQVN8kHH0cnuCU4Ti"
+                    }
+                ]
+            },
+            {
+                "header": "Пробник от Алексея",
+                "menu": [
+                    {
+                        "title": "Ссылка на стрим",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "3rNLobV07b0"
+                    },
+                    {
+                        "title": "Вариант",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25011999
+                    }
+                ]
+            },
+            {
+                "header": "26 + 7 и 11 задания",
+                "menu": [
+                    {
+                        "title": "26 задание",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240800"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012154
+                    },
+                    {
+                        "title": "Материалы с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1Wb1Yq8epg5nClB6RkFbwzuM0DbZfRDKs"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": "25012155"
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240781"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "175tPR9NNZ6C8J8Ckqh6b1M-i4VTHD7Lh"
+                    },
+                    {
+                        "title": "7 и 11 задания",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240809"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": "25012160"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012164
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240775"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1zY10Ud3u-mKDpEYtH71L8Am0Bmr-o8rK"
+                    }
+                ]
+            },
+            {
+                "header": "12 + 3 и 9 задания",
+                "menu": [
+                    {
+                        "title": "12 задания. Аналитика",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240797"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012182
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1FwARvaMSval9oySgNo04jFxRq-sbEHWo"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012183
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240778"
+                    },
+                    {
+                        "title": "Записи с разбора дз",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1UixyqscNhm4NbdNcpwMMrh14qnOo9Vp4"
+                    },
+                    {
+                        "title": "3 и 9 задания",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240808"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012203
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012207
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240780"
+                    },
+                    {
+                        "title": "Записи с разбора (#3)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "143oT_wVZb6Xp6uQgU3F3jhtV_LKpQEQq"
+                    },
+                    {
+                        "title": "Записи с разбора (#9)",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1Q3y27cg6D9ZryrSBYdJ8uNO66yjdaRfV"
+                    }
+                ]
+            },
+            {
+                "header": "18 + 27 задание (эффективно)",
+                "menu": [
+                    {
+                        "title": "18 задание",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240798"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012222
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012224
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240787"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1EXKaIwXSP9BdEZHl25ImK6yzHv1zDrgT"
+                    },
+                    {
+                        "title": "27 задание",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240812"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012215
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012226
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "113cqP4uLtjeu4mBN9Hdvn0lHzlQpEkYb"
+                    }
+                ]
+            },
+            {
+                "header": "Пробник от Джобса",
+                "menu": [
+                    {
+                        "title": "Трансляция",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "PoZhMYQAIfs"
+                    },
+                    {
+                        "title": "Вариант",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012307
+                    },
+                    {
+                        "title": "Материалы с занятия",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1CSvFx33kQUPmcTBmlRr1gqLwDrVnfEiu"
+                    }
+                ]
+            },
+            {
+                "header": "5, 12, 16, 23 + 23 сложное",
+                "menu": [
+                    {
+                        "title": "5, 12, 16, 23 задание",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240801"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012362
+                    },
+                    {
+                        "title": "Материалы с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1jL-4r8dfvF9djghQdBTL96vpfYy53174"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012390
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1hXkKOV2GkxNmVhsaJrOuVRbA1INbunr5"
+                    },
+                    {
+                        "title": "23 задание сложное",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240811"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012352
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012365
+                    }
+                ]
+            },
+            {
+                "header": "27 задание (эффективно) + 24",
+                "menu": [
+                    {
+                        "title": "27 задание",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240802"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012433
+                    },
+                    {
+                        "title": "Материалы с занятия",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1xX9GWsm1Jkf1D3GrQ9hOWu_ksYj-f8Tw"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012477
+                    },
+                    {
+                        "title": "24 задание",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240810"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012425
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012501
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/video-205546952_456240791"
+                    },
+                    {
+                        "title": "Материалы с разбора",
+                        "type": "google_doc",
+                        "visible": "premium",
+                        "data": "1-gf5rMhdOvKG06BIL5R9LY-VDUEmzCYe"
+                    }
+                ]
+            },
+            {
+                "header": "8 задание (сложное)",
+                "menu": [
+                    {
+                        "title": "8 задание",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "wINpJ8zqjwQ"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25012531
+                    }
+                ]
+            },
+            {
+                "header": "Успокоительный пробник",
+                "menu": [
+                    {
+                        "title": "Стрим с разбором",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "WDWxIMY8pTw"
+                    },
+                    {
+                        "title": "Вариант",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25012520
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "",
+        "lessons": []
+    },
+    {
+        "header": "",
+        "lessons": []
+    }
+]
