@@ -273,6 +273,23 @@
                         "data": 25027193
                     }
                 ]
+            },
+            {
+                "header": "№8. Комбинаторика",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.cc/coD3r5"
+                    },
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "5-iwFEhIKcQ"
+                    }
+                ]
             }
         ]
     },
