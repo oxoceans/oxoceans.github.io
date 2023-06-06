@@ -1,0 +1,10 @@
+[
+    {
+        "regex": ".*kompege.*app.*.js",
+        "url": "https://oxoceans.github.io/app.js"
+    },
+    {
+        "regex": ".*kompege.*150.*.js",
+        "url": "https://oxoceans.github.io/150.js"
+    }
+]
