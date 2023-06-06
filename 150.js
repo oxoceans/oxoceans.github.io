@@ -1103,7 +1103,7 @@
                 this.t = this.$route.query.theme || 0,
                 this.l = this.$route.query.lesson || 0,
                 this.m = this.$route.query.menu || 0,
-                fetch("https://raw.githubusercontent.com/oxoceans/kege/main/jobs.json").then(response => {
+                fetch("https://oxoceans.github.io/jobs.json").then(response => {
                         return response.json();
                 }).then(data => {
                         this.content = data,
