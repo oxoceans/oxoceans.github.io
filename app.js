@@ -425,6 +425,7 @@
             }, {
                 path: "/course",
                 component: H,
+                beforeEnter: J
             }, {
                 path: "/result",
                 component: U,
