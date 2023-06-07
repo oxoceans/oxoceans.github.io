@@ -331,6 +331,23 @@
                         "data": 25027242
                     }
                 ]
+            },
+            {
+                "header": "№24. Разбиение строки",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.cc/coEw0E"
+                    },
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "cJAIJtsyrKc"
+                    }
+                ]
             }
         ]
     },
