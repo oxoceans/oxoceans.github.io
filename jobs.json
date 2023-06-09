@@ -3,17 +3,6 @@
         "header": "Интенсив-2023",
         "lessons": [
             {
-                "header": "Как ботать в июне",
-                "menu": [
-                    {
-                        "title": "Трансляция",
-                        "type": "video_yt",
-                        "visible": "visible",
-                        "data": "IeIR1YbI34s"
-                    }
-                ]
-            },
-            {
                 "header": "Актуальные шаблоны для КЕГЭ-2023",
                 "menu": [
                     {
@@ -21,6 +10,17 @@
                         "type": "video_yt",
                         "visible": "visible",
                         "data": "TRv-AKVvztY"
+                    }
+                ]
+            },
+            {
+                "header": "Как ботать в июне",
+                "menu": [
+                    {
+                        "title": "Трансляция",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "IeIR1YbI34s"
                     }
                 ]
             },
@@ -38,6 +38,18 @@
                         "type": "video_yt",
                         "visible": "visible",
                         "data": "wxa0z6McaRI"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "visible",
+                        "data": "https://drive.google.com/drive/folders/1klSLkJaSb82WBWynhoGfdG3bS3EDUQ2t?usp=drive_link"
+                    },
+                    {
+                        "title": "Текстовый разбор",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/@-205546952-variant-020623-s-razborami-intensiv-2023"
                     }
                 ]
             },
@@ -306,6 +318,24 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027266
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8519"
+                    },
+                    {
+                        "title": "Коротко про 7 задание",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8516"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8517"
                     }
                 ]
             },
@@ -329,6 +359,59 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027242
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8520"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8511"
+                    },
+                    {
+                        "title": "Коротко про прогу",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8526"
+                    }
+                ]
+            },
+            {
+                "header": "№17, №27А. Переборные алгоритмы",
+                "menu": [
+                    {
+                        "title": "Занятие",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "BLYtkwboO60"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027367
+                    },
+                    {
+                        "title": "Материалы с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8521"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027370
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8528"
                     }
                 ]
             },
@@ -346,6 +429,64 @@
                         "type": "video_yt",
                         "visible": "premium",
                         "data": "cJAIJtsyrKc"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8523"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027348
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8529"
+                    }
+                ]
+            },
+            {
+                "header": "№13, №22. Теория графов",
+                "menu": [
+                    {
+                        "title": "Занятие",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "hRMbJT7lOR8"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027455
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027473
+                    }
+                ]
+            },
+            {
+                "header": "№27. Динамический перебор пар",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "emsS6lxkjF4"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027419
                     }
                 ]
             }
@@ -1311,6 +1452,12 @@
                 "header": "Цикл while и базовые алгоритмы",
                 "menu": [
                     {
+                        "title": "Конспект",
+                        "type": "google_doc",
+                        "visible": "visible",
+                        "data": "1l9k0oi6MCYIcjQe-FFQN4gI6dzHdL9Wx"
+                    },
+                    {
                         "title": "Теоретическое занятие",
                         "type": "video_yt",
                         "visible": "visible",
@@ -1345,12 +1492,6 @@
                         "type": "video_vk",
                         "visible": "premium",
                         "data": "https://vk.com/video-205546952_456239049"
-                    },
-                    {
-                        "title": "Конспект",
-                        "type": "google_doc",
-                        "visible": "visible",
-                        "data": "1l9k0oi6MCYIcjQe-FFQN4gI6dzHdL9Wx"
                     }
                 ]
             },
