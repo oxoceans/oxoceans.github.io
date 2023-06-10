@@ -295,6 +295,18 @@
                         "type": "test",
                         "visible": "visible",
                         "data": 25027193
+                    },
+                    {
+                        "title": "Разбор варианты",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "b4bb8xOx84g"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "visible",
+                        "data": "https://drive.google.com/drive/folders/107iS8vDMGdW-hNPUcw-59PQol8jecXmZ?usp=drive_link"
                     }
                 ]
             },
@@ -470,6 +482,12 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027473
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8537"
                     }
                 ]
             },
@@ -487,6 +505,23 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027419
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8538"
+                    }
+                ]
+            },
+            {
+                "header": "Вариант 10062023",
+                "menu": [
+                    {
+                        "title": "Вариант",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25027544
                     }
                 ]
             }
