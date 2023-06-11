@@ -485,7 +485,7 @@
                     },
                     {
                         "title": "Разбор дз",
-                        "type": "url",
+                        "type": "video_vk",
                         "visible": "premium",
                         "data": "https://vk.com/wall-205546952_8537"
                     }
@@ -508,7 +508,7 @@
                     },
                     {
                         "title": "Разбор дз",
-                        "type": "url",
+                        "type": "video_vk",
                         "visible": "premium",
                         "data": "https://vk.com/wall-205546952_8538"
                     }
@@ -522,6 +522,34 @@
                         "type": "test",
                         "visible": "visible",
                         "data": 25027544
+                    }
+                ]
+            },
+            {
+                "header": "№1. Сопоставление графа и таблицы",
+                "menu": [
+                    {
+                        "title": "Занятие",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "37CBsXeZSCk"
+                    }
+                ]
+            },
+            {
+                "header": "№15 Тождественная истинность",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "4kimpIjTP0U"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027569
                     }
                 ]
             }
