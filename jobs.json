@@ -307,6 +307,12 @@
                         "type": "url",
                         "visible": "visible",
                         "data": "https://drive.google.com/drive/folders/107iS8vDMGdW-hNPUcw-59PQol8jecXmZ?usp=drive_link"
+                    },
+                    {
+                        "title": "Текстовый разбор",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8558"
                     }
                 ]
             },
@@ -459,6 +465,12 @@
                         "type": "video_vk",
                         "visible": "premium",
                         "data": "https://vk.com/wall-205546952_8529"
+                    },
+                    {
+                        "title": "Короткая справка",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8548"
                     }
                 ]
             },
@@ -533,6 +545,24 @@
                         "type": "video_yt",
                         "visible": "premium",
                         "data": "37CBsXeZSCk"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8545"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027595
+                    },
+                    {
+                        "title": "Важное про задание №1",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8544"
                     }
                 ]
             },
@@ -546,10 +576,62 @@
                         "data": "4kimpIjTP0U"
                     },
                     {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8549"
+                    },
+                    {
                         "title": "Домашняя работа",
                         "type": "test",
                         "visible": "premium",
                         "data": 25027569
+                    }
+                ]
+            },
+            {
+                "header": "№16, №23. Рекурсия",
+                "menu": [
+                    {
+                        "title": "Занятие",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "XEq5vQybMnA"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8557"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027630
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027668
+                    }
+                ]
+            },
+            {
+                "header": "№24 Перебор символов. Подсчёт количества.",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://drive.google.com/drive/folders/1wg-X7mPP8OkWQRezYD7VgBcSpjHL99xf?usp=sharing"
+                    },
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "bQUGAyHyTYc"
                     }
                 ]
             }
