@@ -632,6 +632,52 @@
                         "type": "video_yt",
                         "visible": "premium",
                         "data": "bQUGAyHyTYc"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027617
+                    }
+                ]
+            },
+            {
+                "header": "№18. Маршруты робота в таблице",
+                "menu": [
+                    {
+                        "title": "Занятие",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "0aowBg7dGns"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027730
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027731
+                    }
+                ]
+            },
+            {
+                "header": "№27 Префиксные суммы",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "aCgKz3RAXVs"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027700
                     }
                 ]
             }
