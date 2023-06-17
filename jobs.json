@@ -10,6 +10,12 @@
                         "type": "video_yt",
                         "visible": "visible",
                         "data": "TRv-AKVvztY"
+                    },
+                    {
+                        "title": "Файлы",
+                        "type": "url",
+                        "visible": "visible",
+                        "data": "https://drive.google.com/drive/folders/1A5WfdneiJRjlZ1vv-0g3u7EjLxKnSC4U"
                     }
                 ]
             },
@@ -484,6 +490,12 @@
                         "data": "hRMbJT7lOR8"
                     },
                     {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8577"
+                    },
+                    {
                         "title": "Подборка к занятию",
                         "type": "test",
                         "visible": "premium",
@@ -513,6 +525,12 @@
                         "data": "emsS6lxkjF4"
                     },
                     {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8533"
+                    },
+                    {
                         "title": "Домашняя работа",
                         "type": "test",
                         "visible": "premium",
@@ -527,13 +545,31 @@
                 ]
             },
             {
-                "header": "Вариант 10062023",
+                "header": "Вариант 10.06.2023",
                 "menu": [
                     {
                         "title": "Вариант",
                         "type": "test",
                         "visible": "visible",
                         "data": 25027544
+                    },
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "F-m3eSGDJlo"
+                    },
+                    {
+                        "title": "Файлы с разбора",
+                        "type": "url",
+                        "visible": "visible",
+                        "data": "https://drive.google.com/drive/folders/1ggXNrfhzPTo4jE6Yz7cB2rOse1Ayr-QP?usp=drive_link"
+                    },
+                    {
+                        "title": "Текстовый разбор",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8576"
                     }
                 ]
             },
@@ -557,6 +593,12 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027595
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8554"
                     },
                     {
                         "title": "Важное про задание №1",
@@ -586,6 +628,12 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027569
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8555"
                     }
                 ]
             },
@@ -615,6 +663,24 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027668
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8565"
+                    },
+                    {
+                        "title": "Коротко про lru_cache",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8580"
+                    },
+                    {
+                        "title": "Коротко про 23",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8582"
                     }
                 ]
             },
@@ -628,6 +694,12 @@
                         "data": "https://drive.google.com/drive/folders/1wg-X7mPP8OkWQRezYD7VgBcSpjHL99xf?usp=sharing"
                     },
                     {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8559"
+                    },
+                    {
                         "title": "Стрим",
                         "type": "video_yt",
                         "visible": "premium",
@@ -638,6 +710,12 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027617
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8566"
                     }
                 ]
             },
@@ -651,6 +729,12 @@
                         "data": "0aowBg7dGns"
                     },
                     {
+                        "title": "Файлы с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8567"
+                    },
+                    {
                         "title": "Подборка к занятию",
                         "type": "test",
                         "visible": "premium",
@@ -661,6 +745,12 @@
                         "type": "test",
                         "visible": "premium",
                         "data": 25027731
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8573"
                     }
                 ]
             },
@@ -674,10 +764,200 @@
                         "data": "aCgKz3RAXVs"
                     },
                     {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8568"
+                    },
+                    {
                         "title": "Домашняя работа",
                         "type": "test",
                         "visible": "premium",
                         "data": 25027700
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "video_vk",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8574"
+                    }
+                ]
+            },
+            {
+                "header": "Вариант 14.06.2023",
+                "menu": [
+                    {
+                        "title": "Вариант",
+                        "type": "test",
+                        "visible": "visible",
+                        "data": 25027864
+                    }
+                ]
+            },
+            {
+                "header": "№25. Маски и перебор",
+                "menu": [
+                    {
+                        "title": "Занятие",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "oRbxEAB7nkc"
+                    },
+                    {
+                        "title": "Подборка к занятию",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027905
+                    },
+                    {
+                        "title": "Код с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8581"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027906
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8594"
+                    },
+                    {
+                        "title": "Коротко про маски",
+                        "type": "video_yt",
+                        "visible": "premium"
+                    }
+                ]
+            },
+            {
+                "header": "№25 Работа с делителями",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "RlRfZjPaOlg"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8583"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027885
+                    },
+                    {
+                        "title": "Разбор дз",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8595"
+                    }
+                ]
+            },
+            {
+                "header": "№10. Поиск в текстовом редакторе",
+                "menu": [
+                    {
+                        "title": "Занятие",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "KL2lH7OpovU"
+                    },
+                    {
+                        "title": "Коротко про нужное",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8589"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25028015
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25028016
+                    }
+                ]
+            },
+            {
+                "header": "№12 Алгоритмы для Исполнителя",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "Gm4Z4cV5zcQ"
+                    },
+                    {
+                        "title": "Записи с занятия",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8596"
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25027977
+                    },
+                    {
+                        "title": "коротко про 12 задание",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.com/wall-205546952_8603"
+                    }
+                ]
+            },
+            {
+                "header": "№14. Системы счисления и переборные алгоритмы",
+                "menu": [
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "premium",
+                        "data": "WhJ_FgnXjr8"
+                    },
+                    {
+                        "title": "Подборка",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25028112
+                    },
+                    {
+                        "title": "Домашняя работа",
+                        "type": "test",
+                        "visible": "premium",
+                        "data": 25028113
+                    }
+                ]
+            },
+            {
+                "header": "№26 Программные решения",
+                "menu": [
+                    {
+                        "title": "Подборка",
+                        "type": "url",
+                        "visible": "premium",
+                        "data": "https://vk.cc/coQFl4"
+                    },
+                    {
+                        "title": "Стрим",
+                        "type": "video_yt",
+                        "visible": "visible",
+                        "data": "sy8fTZcLFLo"
                     }
                 ]
             }
